@@ -1,9 +1,13 @@
+![NovaAI Camp Header](assets/Header_NovaAiCamp.png)
+
 # NovaAI Camp - AI Bootcamp Series
 **By DRAG (Data Research & AI Group) - King Abdulaziz University**
 
 A comprehensive AI education program from fundamentals to advanced deep learning.
 
 ---
+
+![NovaAI Camp 1.0 Header](assets/Header_NovaAiCamp1.0.png)
 
 ## 🎓 NovaAI Camp 1.0 - AI Fundamentals
 
@@ -12,6 +16,8 @@ A comprehensive AI education program from fundamentals to advanced deep learning
 # will be added soon
 
 ---
+
+![NovaAI Camp 2.0 Header](assets/Header_NovaAiCamp2.0.png)
 
 ## 🚀 NovaAI Camp 2.0 - Machine Learning Deep Dive
 
@@ -65,3 +71,8 @@ DRAG_NovaAi_Camp/
 ├── extra/              # Supplementary materials
 └── assets/             # Images and resources
 ```
+
+---
+
+**Made by DRAG Team 💜**  
+Follow us on X [@DRAGKAU](https://x.com/DRAGKAU)
