@@ -7,7 +7,7 @@ A comprehensive AI education program from fundamentals to advanced deep learning
 
 ---
 
-![NovaAI Camp 1.0 Header](assets/Header_NovaAiCamp1.0.png)
+![NovaAI Camp 1.0 Header](assets/Header_NovaAi_Camp1.0.png)
 
 ## 🎓 NovaAI Camp 1.0 - AI Fundamentals
 
@@ -17,7 +17,7 @@ A comprehensive AI education program from fundamentals to advanced deep learning
 
 ---
 
-![NovaAI Camp 2.0 Header](assets/Header_NovaAiCamp2.0.png)
+![NovaAI Camp 2.0 Header](assets/Header_NovaAi_Camp2.0.png)
 
 ## 🚀 NovaAI Camp 2.0 - Machine Learning Deep Dive
 
